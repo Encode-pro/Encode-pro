@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🔥, I'm Harshil Agarwal</h1>
-<h3 align="center">I'm a third year undergrad at SRM Institute of Science and Technology, Chennai pursuing B.Tech in Computer Science Engineering. I'm a Competitive Coder, Web Developer and Android Developer.</h3>
+<h3 align="center">I'm a third year undergrad at SRM Institute Of Science and Technology, Chennai pursuing B.Tech in Computer Science Engineering. I'm a Competitive Coder, Web Developer and Android Developer.</h3>
 
 - 📫 How to reach me **Harshilagarwaltps@gmail.com**
 
